@@ -1,5 +1,5 @@
 # Hello there;
-## Welcome to my Universe 👋🏾
+## Welcome to My Universe 👋🏾
 
 I'm a Software Engineer, UX Designer, and Artist. I'm passionate about Web Engineering, Jamstack, mernstack, and others. I design and build useful open-source projects and create beautiful art portraits in my spare time...
 
