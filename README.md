@@ -1,7 +1,7 @@
 # Hello there;
 ## Welcome to Victor Iberi's Universe 👋🏾
 
-I'm a Software Engineer, UX Designer and an Artist. I'm passionate about Web Engineering, Jamstack, mernstack, and others. I design and build useful open-source projects and create beautiful art portraits in my spare time...
+I'm a Software Engineer, UX Designer and Artist. I'm passionate about Web Engineering, Jamstack, mernstack, and others. I design and build useful open-source projects and create beautiful art portraits in my spare time...
 
 **Here's a quick summary about me**:
 
