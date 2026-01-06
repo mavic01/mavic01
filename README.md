@@ -5,7 +5,7 @@ I'm a Software Engineer, UX Designer, and Artist. I'm passionate about Web Engin
 
 **Here's a quick summary about me**:
 
-- 💡 Fun fact: I'm studying at AltSchool Africa [School of Software Engineering](https://engineering.altschoolafrica.com/) Class of 2024.
+- 💡 I studied at AltSchool Africa [School of Software Engineering](https://engineering.altschoolafrica.com/) Class of 2024.
 - 🌱 I’m currently adding to my existing knowledge on JavaScript, TypeScript, Reactjs, Vuejs, and UX Design.
 - 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern, Junior, and Mid-level).
 
